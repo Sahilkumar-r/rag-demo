@@ -1,0 +1,144 @@
+{
+  "questions": 30,
+  "k": 5,
+  "modes": {
+    "bm25": {
+      "hit@1": 0.7,
+      "hit@3": 0.8666666666666667,
+      "hit@5": 0.9,
+      "mrr": 0.7733333333333333,
+      "misses": [
+        "How do I receive a JSON request body using a Pydantic model?",
+        "How do I read a cookie value in an endpoint?",
+        "How do I read a custom request header?"
+      ]
+    },
+    "dense": {
+      "hit@1": 0.8333333333333334,
+      "hit@3": 0.9,
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.8694444444444444,
+      "misses": [
+        "How do I convert a Pydantic model to JSON-compatible data before storing it?",
+        "How do I use UUID or datetime values as parameters?"
+      ]
+    },
+    "hybrid": {
+      "hit@1": 0.8,
+      "hit@3": 0.9666666666666667,
+      "hit@5": 1.0,
+      "mrr": 0.8861111111111111,
+      "misses": []
+    },
+    "hybrid_rerank": {
+      "hit@1": 0.7333333333333333,
+      "hit@3": 0.9333333333333333,
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.8222222222222223,
+      "misses": [
+        "How do I receive a JSON request body using a Pydantic model?",
+        "How do I read a custom request header?"
+      ]
+    }
+  },
+  "guardrail_sweep": [
+    {
+      "threshold": 0.4,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.0
+    },
+    {
+      "threshold": 0.42,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.0
+    },
+    {
+      "threshold": 0.44,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.0
+    },
+    {
+      "threshold": 0.46,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.25
+    },
+    {
+      "threshold": 0.48,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.25
+    },
+    {
+      "threshold": 0.5,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.25
+    },
+    {
+      "threshold": 0.52,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.375
+    },
+    {
+      "threshold": 0.54,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.375
+    },
+    {
+      "threshold": 0.56,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.625
+    },
+    {
+      "threshold": 0.58,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.625
+    },
+    {
+      "threshold": 0.6,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.75
+    },
+    {
+      "threshold": 0.62,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.75
+    },
+    {
+      "threshold": 0.64,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 0.875
+    },
+    {
+      "threshold": 0.66,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 1.0
+    },
+    {
+      "threshold": 0.68,
+      "in_domain_refused": 0.0,
+      "off_topic_refused": 1.0
+    },
+    {
+      "threshold": 0.7,
+      "in_domain_refused": 0.03333333333333333,
+      "off_topic_refused": 1.0
+    },
+    {
+      "threshold": 0.72,
+      "in_domain_refused": 0.1,
+      "off_topic_refused": 1.0
+    },
+    {
+      "threshold": 0.74,
+      "in_domain_refused": 0.23333333333333334,
+      "off_topic_refused": 1.0
+    }
+  ],
+  "in_domain_min_max_dense": [
+    0.694,
+    0.854
+  ],
+  "off_topic_min_max_dense": [
+    0.44,
+    0.646
+  ]
+}

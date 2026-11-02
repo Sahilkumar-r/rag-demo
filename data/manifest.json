@@ -1,0 +1,122 @@
+{
+  "background-tasks.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/background-tasks/"
+  },
+  "bigger-applications.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications/"
+  },
+  "body-fields.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/body-fields/"
+  },
+  "body-multiple-params.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params/"
+  },
+  "body-nested-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/body-nested-models/"
+  },
+  "body-updates.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/body-updates/"
+  },
+  "body.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/body/"
+  },
+  "cookie-param-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/cookie-param-models/"
+  },
+  "cookie-params.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/cookie-params/"
+  },
+  "cors.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/cors/"
+  },
+  "debugging.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/debugging/"
+  },
+  "encoder.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/encoder/"
+  },
+  "extra-data-types.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/extra-data-types/"
+  },
+  "extra-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/extra-models/"
+  },
+  "first-steps.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/first-steps/"
+  },
+  "frontend.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/frontend/"
+  },
+  "handling-errors.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/handling-errors/"
+  },
+  "header-param-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/header-param-models/"
+  },
+  "header-params.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/header-params/"
+  },
+  "index.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/"
+  },
+  "metadata.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/metadata/"
+  },
+  "middleware.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/middleware/"
+  },
+  "path-operation-configuration.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/path-operation-configuration/"
+  },
+  "path-params-numeric-validations.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/"
+  },
+  "path-params.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/path-params/"
+  },
+  "query-param-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/query-param-models/"
+  },
+  "query-params-str-validations.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/query-params-str-validations/"
+  },
+  "query-params.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/query-params/"
+  },
+  "request-files.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/request-files/"
+  },
+  "request-form-models.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/request-form-models/"
+  },
+  "request-forms-and-files.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/request-forms-and-files/"
+  },
+  "request-forms.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/request-forms/"
+  },
+  "response-model.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/response-model/"
+  },
+  "response-status-code.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/response-status-code/"
+  },
+  "schema-extra-example.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/schema-extra-example/"
+  },
+  "server-sent-events.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/server-sent-events/"
+  },
+  "sql-databases.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/sql-databases/"
+  },
+  "static-files.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/static-files/"
+  },
+  "stream-json-lines.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/stream-json-lines/"
+  },
+  "testing.md": {
+    "url": "https://fastapi.tiangolo.com/tutorial/testing/"
+  }
+}
