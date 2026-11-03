@@ -1,0 +1,29 @@
+{
+  "machine": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "python": "3.12.7",
+  "chunks": 434,
+  "docs": 40,
+  "load_seconds": 2.5,
+  "modes": {
+    "bm25": {
+      "p50_ms": 9,
+      "p95_ms": 12,
+      "max_ms": 22
+    },
+    "dense": {
+      "p50_ms": 8,
+      "p95_ms": 16,
+      "max_ms": 49
+    },
+    "hybrid": {
+      "p50_ms": 9,
+      "p95_ms": 13,
+      "max_ms": 14
+    },
+    "hybrid_rerank": {
+      "p50_ms": 1902,
+      "p95_ms": 3669,
+      "max_ms": 4783
+    }
+  }
+}
