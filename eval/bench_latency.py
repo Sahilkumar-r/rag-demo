@@ -2,7 +2,7 @@
 import json, sys, time, statistics, platform
 from pathlib import Path
 
-ROOT = Path(r"D:\rag-demo")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 from ragdemo.retrieval import MODES, Retriever  # noqa: E402
 
